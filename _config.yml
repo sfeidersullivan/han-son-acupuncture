@@ -22,7 +22,7 @@ title: Han Sun
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Acupuncture, Herbal Consultation, Traditional Chinese Medicine
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/han-son-acupuncture" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username:
 github_username:  sfeidersullivan
